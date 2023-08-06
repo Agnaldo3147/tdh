@@ -1,0 +1,15 @@
+@charset "UTF-8"
+
+;body{
+    background-color: black;
+    color: white;
+}
+body > .inter{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    text-align: justify;
+}
+div:hover > p{
+    
+}
